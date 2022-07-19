@@ -1,4 +1,4 @@
 # Leetcode
 Exercise in Leetcode!!
 
-This repository cotains the exercise source codes and knowledge materials about Leetcode!
+This repository contains the exercise source codes and knowledge materials about Leetcode!
